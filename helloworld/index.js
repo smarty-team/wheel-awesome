@@ -1,4 +1,6 @@
-module.exports = (callback) => {
-    callback && callback('hi')
-    return 'hello world'
+module.exports = function (callback) {
+    callback && callback('hi');
+    console.log('helloworld and wudexiong');
+    return 'helloworld';
 }
+

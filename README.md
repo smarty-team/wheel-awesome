@@ -11,47 +11,46 @@ Linux 的创始人 Linus Torvalds 在 2000-08-25 给 linux-kernel 邮件列表�
 二话不说 轮子我都会造 还怕你面试问吗？
 一天造一个轮子，干就完了。
 
-
-
-## 关注公众号 加入微信交流群
-
-
+## 关注公众号 搜索【前端大班车】
 
 ## 新手村任务
-- [x] TDD测试驱动开发
-- [x] 如何使用git
-- [x] 如何为开源项目贡献代码 PR
-
-
+- [x] [ TDD测试驱动开发 ](https://juejin.cn/post/6989541212105981966)
+- [x] [ 如何使用git ](https://juejin.cn/post/6989541212105981966)
+- [x] [ 如何为开源项目贡献代码 PR ](https://juejin.cn/post/6989541212105981966)
+- [ ] Jest单元测试基础
+- [x] [ Git详解 ](https://juejin.cn/post/6844904199189184525)
+- [ ] 工程化与持续构建基础
+- [ ] Typescript基础
 ## 造轮子计划 
 > 计划天天变
-- 框架
-  - [x] [模板引擎](https://juejin.im/post/6884138429181870093)
-  - [x] [防抖与节流](https://juejin.im/post/6885250789825052679)
-  - [x] [响应式原理](https://juejin.im/post/6885546581438201869)
-  - [x] [统一状态管理](https://juejin.im/post/6886002492577234952)
-  - [x] [时间旅行](https://juejin.im/post/6887844088335302670)
-  - [x] [Mixin](https://juejin.cn/post/6891935359651807239)
-  - [ ] 原生Ajax
-- JS基础
+- 材料  material - Javascript基础 、算法、设计模式
   - [x]  [Compose](https://juejin.cn/post/6893338774088974343)
   - [ ]  Promise
   - [ ]  Promise.all/race
-  - [ ]  路由
   - [ ]  new
-  - [ ]  call/apply/bind
+  - [ ]  thunk
+  - [x]  call/apply/bind 
   - [ ]  Object.create
   - [ ]  深拷贝、浅拷贝
-- 算法、设计模式
-  - [ ]  二分查找
-  - [ ]  快排
-  - [ ]  二分查找
-  - [ ]  冒泡排序
-  - [ ]  选择排序
+  - [ ]  排序（冒泡、快排、选择）
+- 零部件 part  - 框架中的独立部分
+  - [x] [模板引擎](https://www.bilibili.com/video/BV1Tr4y1w7v5?p=1)
+  - [x] [防抖与节流](https://juejin.im/post/6885250789825052679)
+  - [x] [响应式原理](https://juejin.im/post/6885546581438201869)
+  - [x] [统一状态管理](https://juejin.im/post/6886002492577234952)
+  - [x] [时间旅行](https://www.bilibili.com/video/BV1Tr4y1w7v5?p=3)
+  - [x] [Mixin](https://juejin.cn/post/6891935359651807239)
+  - [ ] 原生Ajax
+  - [ ] 路由
   - [ ]  订阅发布
-  - [ ]  斐波那契算法
-  - [ ]  去重
-
+- 轮子 wheel  - 著名框架的简写版
+  - [x] [vue](https://www.bilibili.com/video/BV1hV411q7S8)
+  - [ ] react
+  - [ ] 浏览器
+  - [ ] HTTP服务器
+  - [x] [webpack](https://www.bilibili.com/video/BV1dV411p7gp)
+  - [x] [rollup](https://www.bilibili.com/video/BV1Df4y1n777)
+  - [ ] axios
 
 ---
 ![](//p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/058f20e8cee84bdb9c0a62b36dc084e5~tplv-k3u1fbpfcp-zoom-1.image)
